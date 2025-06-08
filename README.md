@@ -5,12 +5,13 @@
 - 📫 E-mail: henriqueveiga141@gmail.com
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/HenriqueVeigaa/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Henriqueveigaa&theme=dracula" />
 </a>
 <a href="https://github.com/HenriqueVeigaa/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueVeigaa&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
- ![Snake animation] (https:github.com/HenriqueVeigaa/HenriqueVeigaa/blob/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/HenriqueVeigaa/HenriqueVeigaa/blob/output/github-contribution-grid-snake.svg)
 
 
